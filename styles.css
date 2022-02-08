@@ -1,0 +1,49 @@
+*{
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(246, 244, 210);
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#value {
+    font-size: 4rem;
+    
+}
+
+.button-container {
+    margin: 3rem;
+}
+
+.btn {
+    background: transparent;
+    margin: 1rem;
+    font-size: 2rem;
+    font-family: "poppins";
+}
+
+.decrease:hover {
+    background-color: rgb(233, 200, 200);
+}
+.reset:hover {
+    background-color: white;
+}
+.increase:hover {
+    background-color: rgb(207, 233, 200);
+}
