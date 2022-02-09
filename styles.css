@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(246, 244, 210);
+    background-color: rgb(249, 248, 227);
     font-size: 16px;
 }
 
@@ -13,7 +13,7 @@ h1 {
     text-transform: uppercase;
 }
 main {
-    min-height: 100vh;
+    min-height: 90vh;
     display: grid;
     place-items: center;
 }
